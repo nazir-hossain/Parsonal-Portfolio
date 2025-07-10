@@ -13,7 +13,7 @@
     --transition-speed: 0.3s;
 }
 
-/* --- VERSION 1.2: DARK MODE VARIABLES --- */
+/* --- DARK MODE VARIABLES --- */
 body.dark-mode {
     --primary-color: #e0e0e0;
     --secondary-color: #00a9e0;
